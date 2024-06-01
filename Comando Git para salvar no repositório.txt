@@ -1,0 +1,8 @@
+ git init
+   
+ git config --global user.name "daaragac"
+ git config --global user.email "daaragaoc@gmail.com"
+git status
+ git add .
+ git commit -m "Commit de link e terminal e argumento"
+  git push
