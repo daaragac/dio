@@ -1,0 +1,20 @@
+Quando queremos definir como padrão um argumento podemos definir no arquivo "launch.jseon"
+Exemplo abaixo:
+{
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Letícia",
+                "Chaves",
+                "40",
+                "1.70"
+            ]
+        },
+
+No exemplo acima definir os parametros para a classe "AboutMe.java
+
+Ao executar pelo terminal terei que usar a classe que fica dentro da pasta "bin/AboutMe.class" => java AboutMe Letíca Aragão 09 1.51
+
+Executei passando os parametros.
